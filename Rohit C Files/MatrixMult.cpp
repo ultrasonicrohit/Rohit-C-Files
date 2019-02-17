@@ -4,7 +4,7 @@
 
 int main()
 {
-int a[Max][Max],b[Max][Max],c[2*Max][2*Max];
+int a[Max][Max],b[Max][Max],c[Max][Max];
 int row1,row2,col1,col2;
 row1=row2=col1=col2=0;
 printf("Matrix A:\n");
